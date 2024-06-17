@@ -67,8 +67,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rahulkeshwala/rahulkeshwala/output/snake.svg" alt="Snake animation" />
-
-###
