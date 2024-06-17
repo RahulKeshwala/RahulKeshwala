@@ -1,5 +1,7 @@
 <img src="Linkedin (1).jpg">
 <h2 align="left">Hi 👋! I'm Rahul Keshwala</h2>
+<br>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rahul-keshwala-62ab94210/?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">
@@ -12,6 +14,15 @@
 
 <br/>  
 </div>
+
+
+<div><h3>Glad to see you here!</h3></div> 
+  
+<div>Leveraging my engineering background, I transitioned into UI/UX design with a passion for crafting thoughtful solutions. I'm a self-taught UI/UX Designer working with Pruthatek. </div>
+  </br>
+
+<br/>  
+
 
 ###
 
